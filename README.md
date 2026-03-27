@@ -41,33 +41,36 @@ This example project helps you understand these basics in practice.
 ### POSTMAN
 
 a. READ DATA (GET)
-<img width="1123" height="914" alt="Screenshot 2026-03-25 135933" src="https://github.com/user-attachments/assets/ababbdf3-c122-4500-89af-961001ed1e9c" />
+<img width="608" height="758" alt="image" src="https://github.com/user-attachments/assets/009ddce0-2e4f-4e00-a477-3449b71bc280" />
+
 
 b. ADD DATA (POST)
-<img width="1101" height="746" alt="Screenshot 2026-03-25 140419" src="https://github.com/user-attachments/assets/b4c6155d-7779-42a4-be04-58e443a573ce" />
+<img width="502" height="821" alt="image" src="https://github.com/user-attachments/assets/a3df3826-2f0d-45e6-a959-2189217fbc3e" />
 
-c. UPDATE 
-<img width="1102" height="742" alt="Screenshot 2026-03-25 140629" src="https://github.com/user-attachments/assets/10886205-440b-400c-a8b3-acda6f5a95b9" />
+<img width="524" height="820" alt="image" src="https://github.com/user-attachments/assets/d9e809d1-247f-4d7b-bfad-20f7d7b0488b" />
 
-d. DELETE
-BEFORE DELETEING -:
-<img width="1105" height="849" alt="Screenshot 2026-03-25 140715" src="https://github.com/user-attachments/assets/00d2949f-4d92-4f03-8841-1d2691fd23b1" />
+<img width="567" height="839" alt="image" src="https://github.com/user-attachments/assets/8fcafd68-62ba-4049-8620-c6d87735156b" />
 
-AFTER DELETING ID:103 -:
-<img width="1101" height="742" alt="Screenshot 2026-03-25 142640" src="https://github.com/user-attachments/assets/ac77da5f-e4ae-48cc-9888-f157faa9fdad" />
+
+c. DELETE
+DELETEING -:
+<img width="668" height="756" alt="image" src="https://github.com/user-attachments/assets/f2f553f8-bb80-4751-bbde-bf6d7e5aadde" />
+
 
 
 ### CODE IN ECLLIPSE
-<img width="564" height="237" alt="Screenshot 2026-03-25 143259" src="https://github.com/user-attachments/assets/e1869ddb-ba14-4ced-b04f-ce54e8c42a7d" />
-<img width="514" height="551" alt="Screenshot 2026-03-25 143357" src="https://github.com/user-attachments/assets/bf1b665a-9596-48c8-a827-33cecf3c6f46" />
-<img width="368" height="520" alt="Screenshot 2026-03-25 143432" src="https://github.com/user-attachments/assets/b6933d68-65cf-41e3-8f2f-32535a041d6b" />
-<img width="633" height="240" alt="Screenshot 2026-03-25 143444" src="https://github.com/user-attachments/assets/ffac5546-a035-41ff-89b2-0dd4a95839fc" />
-<img width="620" height="528" alt="Screenshot 2026-03-25 143452" src="https://github.com/user-attachments/assets/42b4da5f-3c03-49a4-a4f5-316d42e33419" />
-<img width="622" height="213" alt="Screenshot 2026-03-25 143501" src="https://github.com/user-attachments/assets/82ed00f1-983a-4f4d-a462-fb958feceb78" />
+<img width="826" height="571" alt="image" src="https://github.com/user-attachments/assets/db369e5c-bc00-49c9-8e24-933977168be1" />
+
+
 
 ### RUNNING PROJECT
 <img width="1569" height="869" alt="Screenshot 2026-03-25 143655" src="https://github.com/user-attachments/assets/8c72a85a-e426-4e7a-aa05-d184631375b0" />
 
+<img width="834" height="465" alt="image" src="https://github.com/user-attachments/assets/2c547ba9-5e80-478d-826d-e6bb5ac43213" />
+
+<img width="833" height="590" alt="image" src="https://github.com/user-attachments/assets/07a58688-05a3-4798-b9e0-26332bb3e0aa" />
+
+<img width="831" height="198" alt="image" src="https://github.com/user-attachments/assets/083f687e-134b-4083-9dec-3b7b8ff0165e" />
 
 ## 🗂️ Project Structure
 
@@ -137,4 +140,4 @@ real‑world learning.
 
 ## 👨‍💻 Author
 
-Developed by **RAMNEEK KAUR**
+Developed by **Aaryan Gill**
