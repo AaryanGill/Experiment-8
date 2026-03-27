@@ -64,7 +64,8 @@ DELETEING -:
 
 
 ### RUNNING PROJECT
-<img width="1569" height="869" alt="Screenshot 2026-03-25 143655" src="https://github.com/user-attachments/assets/8c72a85a-e426-4e7a-aa05-d184631375b0" />
+<img width="1078" height="294" alt="image" src="https://github.com/user-attachments/assets/614973d0-3088-416a-bd15-2dda562daf34" />
+
 
 <img width="834" height="465" alt="image" src="https://github.com/user-attachments/assets/2c547ba9-5e80-478d-826d-e6bb5ac43213" />
 
