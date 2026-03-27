@@ -85,7 +85,8 @@ A typical Spring Boot REST API project looks like this:
 
 Screenshot (Ecllipse) -:
 
-<img width="295" height="300" alt="Screenshot 2026-03-25 142914" src="https://github.com/user-attachments/assets/46ca21a9-01b0-4b56-be89-f2c525b41a6c" />
+<img width="336" height="449" alt="image" src="https://github.com/user-attachments/assets/59f86082-38fb-4ee6-acad-c829c83b1873" />
+
 
 
 ------------------------------------------------------------------------
